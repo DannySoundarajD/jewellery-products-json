@@ -12,8 +12,13 @@
       "occasion": "Wedding",
       "rating": 4.6,
       "reviews": 98,
-      "image": "https://example.com/images/gold-mangalsutra-1.jpg",
-      "description": "Traditional gold mangalsutra with black beads, symbolizing protection and prosperity."
+      "image": "https://www.onlinepng.com/cdn/shop/files/MS1166682-1.jpg?v=1719399486",
+      "description": "Traditional gold mangalsutra with black beads, symbolizing protection and prosperity. A timeless bestseller.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-20"
     },
     {
       "id": 2,
@@ -27,8 +32,13 @@
       "occasion": "Anniversary",
       "rating": 4.8,
       "reviews": 74,
-      "image": "https://example.com/images/diamond-mangalsutra-1.jpg",
-      "description": "Modern mangalsutra with a sparkling diamond pendant set in gold."
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdVBnIG1w5pFP7yfMVjp2vzhcPls-OSs6pw&s",
+      "description": "Modern mangalsutra with a sparkling diamond pendant set in gold. A top trending design for daily elegance.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-01"
     },
     {
       "id": 3,
@@ -42,8 +52,13 @@
       "occasion": "Wedding",
       "rating": 4.7,
       "reviews": 88,
-      "image": "https://example.com/images/vati-mangalsutra-1.jpg",
-      "description": "Features two gold cup-shaped pendants (vatis) on a black and gold beaded chain, representing the union of Shiva and Parvati."
+      "image": "https://www.miabytanishq.com/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwaf36ce53/images/hi-res/3024YAT.jpg?sw=640&sh=640",
+      "description": "Features two gold cup-shaped pendants (vatis) on a black and gold beaded chain, representing the union of Shiva and Parvati. A consistently popular traditional choice.",
+      "is_featured": false,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-15"
     },
     {
       "id": 4,
@@ -57,8 +72,13 @@
       "occasion": "Wedding",
       "rating": 4.5,
       "reviews": 41,
-      "image": "https://example.com/images/dejhoor-mangalsutra-1.jpg",
-      "description": "Kashmiri Dejhoor mangalsutra, originally an ear adornment, now worn as a necklace symbolizing the marriage of Shiva and Shakti."
+      "image": "https://miro.medium.com/v2/resize:fit:1400/1*vw6Srys5jOyp9w789GMuIw.jpeg",
+      "description": "Kashmiri Dejhoor mangalsutra, originally an ear adornment, now worn as a necklace symbolizing the marriage of Shiva and Shakti. A unique regional piece.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": false,
+      "added_date": "2025-05-20"
     },
     {
       "id": 5,
@@ -72,8 +92,13 @@
       "occasion": "Wedding",
       "rating": 4.4,
       "reviews": 35,
-      "image": "https://example.com/images/sindhi-mangalsutra-1.jpg",
-      "description": "Gold pendant on a black and gold beaded necklace, gifted by the husband on the wedding day."
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfRGfC_RWJOt3tXIod1QWUQHuDaa6lEkHEiA&s",
+      "description": "Gold pendant on a black and gold beaded necklace, gifted by the husband on the wedding day. A distinct regional style.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-28"
     },
     {
       "id": 6,
@@ -87,8 +112,13 @@
       "occasion": "Wedding",
       "rating": 4.3,
       "reviews": 28,
-      "image": "https://example.com/images/taagpaag-mangalsutra-1.jpg",
-      "description": "Bihari Taagpaag mangalsutra with arc-shaped pendants and black beaded chain."
+      "image": "https://images.meesho.com/images/products/54996367/rgwkx_512.webp",
+      "description": "Bihari Taagpaag mangalsutra with arc-shaped pendants and black beaded chain. Reflects regional heritage.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-10"
     },
     {
       "id": 7,
@@ -102,8 +132,13 @@
       "occasion": "Wedding",
       "rating": 4.5,
       "reviews": 39,
-      "image": "https://example.com/images/kannada-mangalsutra-1.jpg",
-      "description": "Intricately woven gold chains with black beads and a central pendant, sometimes adorned with emeralds or rubies."
+      "image": "https://www.everestgoldcovering.com/image/cache/catalog/Thaali%20Item/thn49-traditional-double-coral-with-black-beads-and-lakshmi-vatti-traditional-mangalsutra-for-kannada-women-2-850x1000.jpg.webp",
+      "description": "Intricately woven gold chains with black beads and a central pendant, sometimes adorned with emeralds or rubies. A South Indian classic.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-02"
     },
     {
       "id": 8,
@@ -117,8 +152,13 @@
       "occasion": "Wedding",
       "rating": 4.6,
       "reviews": 44,
-      "image": "https://example.com/images/telugu-mangalsutra-1.jpg",
-      "description": "Features two gold discs tied with yellow thread, later united with black and coral beads on a gold wire."
+      "image": "https://www.mangalsutraonline.com/cdn/shop/files/DiamondTeluguMangalsutraGoldInGold-MGS8985_1080x1080.jpg?v=1702365862",
+      "description": "Features two gold discs tied with yellow thread, later united with black and coral beads on a gold wire. A prominent South Indian design.",
+      "is_featured": false,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-25"
     },
     {
       "id": 9,
@@ -132,8 +172,13 @@
       "occasion": "Wedding",
       "rating": 4.7,
       "reviews": 52,
-      "image": "https://example.com/images/tamil-thaali-1.jpg",
-      "description": "Simple gold chain with a pendant, often engraved with deities or auspicious symbols."
+      "image": "https://images.meesho.com/images/products/297799391/4vyuv_512.webp",
+      "description": "Simple gold chain with a pendant, often engraved with deities or auspicious symbols. A sacred South Indian emblem.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-01"
     },
     {
       "id": 10,
@@ -147,8 +192,13 @@
       "occasion": "Wedding",
       "rating": 4.5,
       "reviews": 37,
-      "image": "https://example.com/images/kerala-ela-thali-1.jpg",
-      "description": "Leaf-shaped gold pendant (Ela) on a long chain, sometimes inscribed with Om or other Hindu symbols."
+      "image": "https://www.chidambaramcovering.com/image/cache/catalog/Thaali%20Item/tal63-kerala-hindu-ela-om-thali-design--traditional-kerala-mangalsutra-designs-online-40-1-1700x2000.jpg.webpg",
+      "description": "Leaf-shaped gold pendant (Ela) on a long chain, sometimes inscribed with Om or other Hindu symbols. Represents Keralite heritage.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-18"
     },
     {
       "id": 11,
@@ -163,7 +213,12 @@
       "rating": 4.6,
       "reviews": 29,
       "image": "https://example.com/images/kerala-minnu-1.jpg",
-      "description": "Gold medallion with a cross, worn on seven strands of thread, symbolizing love and faith."
+      "description": "Gold medallion with a cross, worn on seven strands of thread, symbolizing love and faith in Christian tradition of Kerala.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": false,
+      "added_date": "2025-05-25"
     },
     {
       "id": 12,
@@ -178,11 +233,16 @@
       "rating": 4.7,
       "reviews": 53,
       "image": "https://example.com/images/floral-mangalsutra-1.jpg",
-      "description": "Designer floral pendant mangalsutra with diamonds for special occasions."
+      "description": "Designer floral pendant mangalsutra with diamonds for special occasions. A popular trending choice.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-03"
     },
     {
       "id": 13,
-      "name": "Short Mangalsutra Necklace",
+      "name": "Short Minimalist Mangalsutra Necklace",
       "price": 8999,
       "category": "Mangalsutra",
       "material": "Gold",
@@ -193,7 +253,12 @@
       "rating": 4.3,
       "reviews": 27,
       "image": "https://example.com/images/short-mangalsutra-1.jpg",
-      "description": "Short, minimalist mangalsutra necklace for modern brides."
+      "description": "Short, minimalist mangalsutra necklace for modern brides, ideal for daily subtle wear.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-04"
     },
     {
       "id": 14,
@@ -208,7 +273,12 @@
       "rating": 4.0,
       "reviews": 19,
       "image": "https://example.com/images/beaded-mangalsutra-1.jpg",
-      "description": "Traditional beaded mangalsutra for everyday elegance."
+      "description": "Traditional beaded mangalsutra for everyday elegance.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-05"
     },
     {
       "id": 15,
@@ -223,7 +293,12 @@
       "rating": 4.6,
       "reviews": 41,
       "image": "https://example.com/images/temple-mangalsutra-1.jpg",
-      "description": "Antique temple design mangalsutra with ruby stones."
+      "description": "Antique temple design mangalsutra with ruby stones, a grand traditional piece.",
+      "is_featured": true,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": false,
+      "added_date": "2025-05-10"
     },
     {
       "id": 16,
@@ -238,7 +313,12 @@
       "rating": 4.8,
       "reviews": 34,
       "image": "https://example.com/images/kundan-mangalsutra-1.jpg",
-      "description": "Designer kundan work mangalsutra for special occasions."
+      "description": "Designer kundan work mangalsutra for special occasions. Features intricate traditional artistry.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": false,
+      "added_date": "2025-06-20"
     },
     {
       "id": 17,
@@ -253,7 +333,12 @@
       "rating": 4.4,
       "reviews": 29,
       "image": "https://example.com/images/pearl-mangalsutra-1.jpg",
-      "description": "Modern mangalsutra with a pearl drop pendant."
+      "description": "Modern mangalsutra with a graceful pearl drop pendant.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-01"
     },
     {
       "id": 18,
@@ -268,7 +353,12 @@
       "rating": 4.2,
       "reviews": 45,
       "image": "https://example.com/images/minimalist-mangalsutra-1.jpg",
-      "description": "Simple gold mangalsutra chain for daily use."
+      "description": "Simple gold mangalsutra chain for daily use, catering to minimalist aesthetics.",
+      "is_featured": false,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-01"
     },
     {
       "id": 19,
@@ -283,7 +373,12 @@
       "rating": 4.9,
       "reviews": 61,
       "image": "https://example.com/images/designer-diamond-mangalsutra-1.jpg",
-      "description": "Contemporary diamond-studded mangalsutra for glamorous events."
+      "description": "Contemporary diamond-studded mangalsutra for glamorous events. A top-tier designer piece.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-04"
     },
     {
       "id": 20,
@@ -298,7 +393,212 @@
       "rating": 4.6,
       "reviews": 32,
       "image": "https://example.com/images/gujarati-vati-mangalsutra-1.jpg",
-      "description": "Gujarati vati mangalsutra with two gold cups on a black and gold beaded chain."
+      "description": "Gujarati vati mangalsutra with two gold cups on a black and gold beaded chain. A distinctive regional marriage symbol.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-22"
+    },
+    {
+      "id": 21,
+      "name": "Evil Eye Diamond Mangalsutra",
+      "price": 16999,
+      "category": "Mangalsutra",
+      "material": "Gold",
+      "gemstone": "Diamond",
+      "type": "Modern",
+      "region": "Pan India",
+      "occasion": "Daily Wear",
+      "rating": 4.5,
+      "reviews": 40,
+      "image": "https://example.com/images/evil-eye-mangalsutra.jpg",
+      "description": "Trendy evil eye pendant with diamond accents on a modern mangalsutra chain, for protection and style.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-03"
+    },
+    {
+      "id": 22,
+      "name": "Layered Minimalist Mangalsutra",
+      "price": 10500,
+      "category": "Mangalsutra",
+      "material": "Gold",
+      "gemstone": "None",
+      "type": "Layered",
+      "region": "Modern",
+      "occasion": "Daily Wear",
+      "rating": 4.4,
+      "reviews": 30,
+      "image": "https://example.com/images/layered-mangalsutra.jpg",
+      "description": "A stylish layered mangalsutra featuring multiple delicate gold chains and minimal black beads.",
+      "is_featured": true,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-04"
+    },
+    {
+      "id": 23,
+      "name": "Mangal-sutra Bracelet",
+      "price": 5999,
+      "category": "Mangalsutra",
+      "material": "Gold",
+      "gemstone": "None",
+      "type": "Contemporary",
+      "region": "Modern",
+      "occasion": "Daily Wear",
+      "rating": 4.1,
+      "reviews": 25,
+      "image": "https://example.com/images/mangalsutra-bracelet.jpg",
+      "description": "A modern reinterpretation of the mangalsutra as a bracelet, perfect for daily wear.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-25"
+    },
+    {
+      "id": 24,
+      "name": "Lariat Style Mangalsutra",
+      "price": 14999,
+      "category": "Mangalsutra",
+      "material": "Gold",
+      "gemstone": "Diamond",
+      "type": "Modern",
+      "region": "Pan India",
+      "occasion": "Fashion",
+      "rating": 4.6,
+      "reviews": 35,
+      "image": "https://example.com/images/lariat-mangalsutra.jpg",
+      "description": "A trendy lariat-style mangalsutra with a subtle diamond accent, for a chic and versatile look.",
+      "is_featured": true,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-01"
+    },
+    {
+      "id": 25,
+      "name": "Mangalsutra with Gemstone Pop",
+      "price": 17500,
+      "category": "Mangalsutra",
+      "material": "Gold",
+      "gemstone": "Ruby",
+      "type": "Modern",
+      "region": "Pan India",
+      "occasion": "Festive",
+      "rating": 4.7,
+      "reviews": 28,
+      "image": "https://example.com/images/gemstone-pop-mangalsutra.jpg",
+      "description": "A traditional gold mangalsutra design with a vibrant pop of color from a ruby gemstone.",
+      "is_featured": true,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": false,
+      "added_date": "2025-06-18"
+    },
+    {
+      "id": 26,
+      "name": "Bold Teardrop Diamond Mangalsutra",
+      "price": 32000,
+      "category": "Mangalsutra",
+      "material": "Gold",
+      "gemstone": "Diamond",
+      "type": "Statement",
+      "region": "Pan India",
+      "occasion": "Wedding",
+      "rating": 4.8,
+      "reviews": 20,
+      "image": "https://example.com/images/bold-teardrop-mangalsutra.jpg",
+      "description": "A lavish gold mangalsutra featuring a bold teardrop-shaped diamond pendant, for grand occasions.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": false,
+      "added_date": "2025-07-02"
+    },
+    {
+      "id": 27,
+      "name": "Contemporary Leaf Design Mangalsutra",
+      "price": 14000,
+      "category": "Mangalsutra",
+      "material": "Rose Gold",
+      "gemstone": "None",
+      "type": "Modern",
+      "region": "Pan India",
+      "occasion": "Daily Wear",
+      "rating": 4.3,
+      "reviews": 18,
+      "image": "https://example.com/images/leaf-design-mangalsutra.jpg",
+      "description": "A chic rose gold mangalsutra with a modern leaf-inspired pendant, perfect for daily wear.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-29"
+    },
+    {
+      "id": 28,
+      "name": "Geometric Pendant Mangalsutra",
+      "price": 16500,
+      "category": "Mangalsutra",
+      "material": "White Gold",
+      "gemstone": "Diamond",
+      "type": "Modern",
+      "region": "Pan India",
+      "occasion": "Party",
+      "rating": 4.5,
+      "reviews": 22,
+      "image": "https://example.com/images/geometric-mangalsutra.jpg",
+      "description": "White gold mangalsutra featuring a modern geometric diamond pendant, for a contemporary look.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-01"
+    },
+    {
+      "id": 29,
+      "name": "Customized Name Mangalsutra",
+      "price": 10999,
+      "category": "Mangalsutra",
+      "material": "Gold",
+      "gemstone": "None",
+      "type": "Personalized",
+      "region": "Pan India",
+      "occasion": "Anniversary",
+      "rating": 4.7,
+      "reviews": 50,
+      "image": "https://example.com/images/custom-name-mangalsutra.jpg",
+      "description": "A highly personal mangalsutra with a custom name pendant, a popular modern trend.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-25"
+    },
+    {
+      "id": 30,
+      "name": "Delicate Solitaire Mangalsutra",
+      "price": 19500,
+      "category": "Mangalsutra",
+      "material": "Platinum",
+      "gemstone": "Diamond",
+      "type": "Solitaire",
+      "region": "Pan India",
+      "occasion": "Daily Wear",
+      "rating": 4.8,
+      "reviews": 45,
+      "image": "https://example.com/images/delicate-solitaire-mangalsutra.jpg",
+      "description": "A subtle and delicate solitaire diamond mangalsutra, perfect for everyday sophistication.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-04"
     }
   ]
 }

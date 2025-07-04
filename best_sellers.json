@@ -13,8 +13,13 @@
         "occasion": "Wedding",
         "rating": 4.8,
         "reviews": 95,
-        "image": "https://images.jdmagicbox.com/quickquotes/images_main/solitaire-rings-2089332306-z7x2v.jpg",
-        "description": "Sparkling solitaire diamond ring with platinum base, a timeless choice for engagements."
+        "image": "https://jewelbox.co.in/wp-content/uploads/2024/01/WRI0274-1-2.jpg",
+        "description": "Sparkling solitaire diamond ring with platinum base, a timeless choice for engagements.",
+        "is_featured": true,
+        "is_bestseller": true,
+        "has_special_deal": false,
+        "is_fast_delivery": true,
+        "added_date": "2024-10-15"
       },
       {
         "id": 2,
@@ -28,8 +33,13 @@
         "occasion": "Casual",
         "rating": 4.3,
         "reviews": 120,
-        "image": "https://m.media-amazon.com/images/I/61E5h40+HUL._AC_SL1500_.jpg",
-        "description": "Elegant 22K gold ring perfect for daily wear."
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnb8radT0UhQS6Acb3jWxPV6pZCi8B8Gr8IQ&s",
+        "description": "Elegant 22K gold ring perfect for daily wear.",
+        "is_featured": false,
+        "is_bestseller": true,
+        "has_special_deal": true,
+        "is_fast_delivery": true,
+        "added_date": "2024-08-01"
       },
       {
         "id": 3,
@@ -43,8 +53,13 @@
         "occasion": "Anniversary",
         "rating": 4.4,
         "reviews": 46,
-        "image": "https://m.media-amazon.com/images/I/71Ew1-i+LXL._AC_SL1500_.jpg",
-        "description": "Symbol of infinite love in 18K gold, a popular choice for anniversaries."
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOgXaAKJrmuoWZ0XzZGgs4nAQaiNTepmv29Q&s",
+        "description": "Symbol of infinite love in 18K gold, a popular choice for anniversaries.",
+        "is_featured": false,
+        "is_bestseller": true,
+        "has_special_deal": false,
+        "is_fast_delivery": true,
+        "added_date": "2024-09-20"
       },
       {
         "id": 4,
@@ -58,8 +73,13 @@
         "occasion": "Wedding",
         "rating": 4.9,
         "reviews": 85,
-        "image": "https://images.jdmagicbox.com/quickquotes/images_main/solitaire-rings-2089332306-z7x2v.jpg",
-        "description": "Diamond securely set in bezel frame, a popular and durable wedding ring."
+        "image": "https://www.abhikajewels.com/cdn/shop/products/download_2_bc56f7b4-94e1-4963-b422-117350602978.png?v=1636961991",
+        "description": "Diamond securely set in bezel frame, a popular and durable wedding ring.",
+        "is_featured": true,
+        "is_bestseller": true,
+        "has_special_deal": false,
+        "is_fast_delivery": true,
+        "added_date": "2024-11-05"
       },
       {
         "id": 5,
@@ -73,8 +93,13 @@
         "occasion": "Party",
         "rating": 4.3,
         "reviews": 40,
-        "image": "https://jaipurgems.com/cdn/shop/products/GB-908832-1_2000x.jpg?v=1661334659",
-        "description": "Ornate filigree design in vintage style."
+        "image": "https://i.pinimg.com/736x/6b/83/78/6b8378357120316a83e49609db945f2f.jpg",
+        "description": "Ornate filigree design in vintage style.",
+        "is_featured": false,
+        "is_bestseller": true,
+        "has_special_deal": true,
+        "is_fast_delivery": false,
+        "added_date": "2024-07-10"
       }
     ],
     "mangalsutras": [
@@ -90,8 +115,13 @@
         "occasion": "Wedding",
         "rating": 4.6,
         "reviews": 98,
-        "image": "https://m.media-amazon.com/images/I/71YyM+4+XnL._AC_SL1500_.jpg",
-        "description": "Traditional gold mangalsutra with black beads, symbolizing protection and prosperity. A consistent bestseller."
+        "image": "https://londejewellers.com/uploads/products/24168.webp",
+        "description": "Traditional gold mangalsutra with black beads, symbolizing protection and prosperity. A consistent bestseller.",
+        "is_featured": true,
+        "is_bestseller": true,
+        "has_special_deal": false,
+        "is_fast_delivery": true,
+        "added_date": "2024-09-01"
       },
       {
         "id": 7,
@@ -105,8 +135,13 @@
         "occasion": "Wedding",
         "rating": 4.7,
         "reviews": 88,
-        "image": "https://m.media-amazon.com/images/I/61E5h40+HUL._AC_SL1500_.jpg",
-        "description": "Features two gold cup-shaped pendants (vatis), a popular traditional style."
+        "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3da9517d/images/hi-res/51D2A2YOZAA00_1.jpg",
+        "description": "Features two gold cup-shaped pendants (vatis), a popular traditional style.",
+        "is_featured": false,
+        "is_bestseller": true,
+        "has_special_deal": false,
+        "is_fast_delivery": true,
+        "added_date": "2024-07-25"
       },
       {
         "id": 8,
@@ -120,8 +155,13 @@
         "occasion": "Anniversary",
         "rating": 4.8,
         "reviews": 74,
-        "image": "https://m.media-amazon.com/images/I/61X-c-D-OEL._AC_SL1500_.jpg",
-        "description": "A modern mangalsutra with a sparkling diamond pendant, a top seller for anniversaries."
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtBFU5xwfK02EAvU_3wyLAUR8i0J7nDt_gw&s",
+        "description": "A modern mangalsutra with a sparkling diamond pendant, a top seller for anniversaries.",
+        "is_featured": true,
+        "is_bestseller": true,
+        "has_special_deal": true,
+        "is_fast_delivery": true,
+        "added_date": "2024-10-01"
       },
       {
         "id": 9,
@@ -135,8 +175,13 @@
         "occasion": "Daily Wear",
         "rating": 4.3,
         "reviews": 27,
-        "image": "https://m.media-amazon.com/images/I/71YyM+4+XnL._AC_SL1500_.jpg",
-        "description": "Short, minimalist mangalsutra for daily wear, a trendy best-seller among modern brides."
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBCQXa7Lwl1nPWUKkDRxLAOMXJC9VfVlwwQ&s",
+        "description": "Short, minimalist mangalsutra for daily wear, a trendy best-seller among modern brides.",
+        "is_featured": false,
+        "is_bestseller": true,
+        "has_special_deal": false,
+        "is_fast_delivery": true,
+        "added_date": "2024-08-15"
       }
     ],
     "bracelets": [
@@ -152,8 +197,13 @@
         "occasion": "Daily Wear",
         "rating": 4.5,
         "reviews": 110,
-        "image": "https://m.media-amazon.com/images/I/71J15J3zS3L._AC_SL1500_.jpg",
-        "description": "Elegant 22K gold chain bracelet for everyday elegance."
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtMlNr5ibqHZpSVKeJCLbNjfOm8iSbhhDONQ&s",
+        "description": "Elegant 22K gold chain bracelet for everyday elegance.",
+        "is_featured": true,
+        "is_bestseller": true,
+        "has_special_deal": true,
+        "is_fast_delivery": true,
+        "added_date": "2024-07-05"
       },
       {
         "id": 11,
@@ -168,7 +218,12 @@
         "rating": 4.8,
         "reviews": 67,
         "image": "https://i.pinimg.com/736x/29/73/45/2973456f9191e4a46d140e740134b9d0.jpg",
-        "description": "Sparkling diamond tennis bracelet for special occasions."
+        "description": "Sparkling diamond tennis bracelet for special occasions.",
+        "is_featured": true,
+        "is_bestseller": true,
+        "has_special_deal": false,
+        "is_fast_delivery": true,
+        "added_date": "2024-09-10"
       },
       {
         "id": 12,
@@ -183,7 +238,12 @@
         "rating": 4.7,
         "reviews": 44,
         "image": "https://m.media-amazon.com/images/I/71Ew1-i+LXL._AC_SL1500_.jpg",
-        "description": "Rose gold bracelet with infinity symbol for everlasting love."
+        "description": "Rose gold bracelet with infinity symbol for everlasting love.",
+        "is_featured": false,
+        "is_bestseller": true,
+        "has_special_deal": false,
+        "is_fast_delivery": true,
+        "added_date": "2024-07-20"
       },
       {
         "id": 13,
@@ -198,7 +258,12 @@
         "rating": 4.2,
         "reviews": 31,
         "image": "https://m.media-amazon.com/images/I/71Q3J2f7fUL._AC_SL1500_.jpg",
-        "description": "Trendy oxidized silver bangle for a boho look."
+        "description": "Trendy oxidized silver bangle for a boho look.",
+        "is_featured": false,
+        "is_bestseller": true,
+        "has_special_deal": true,
+        "is_fast_delivery": true,
+        "added_date": "2024-08-05"
       }
     ],
     "bangles": [
@@ -215,7 +280,12 @@
         "rating": 4.7,
         "reviews": 87,
         "image": "https://m.media-amazon.com/images/I/610tQ1G+Y1L._AC_SL1500_.jpg",
-        "description": "Classic 22K gold bangle for festive and wedding occasions."
+        "description": "Classic 22K gold bangle for festive and wedding occasions.",
+        "is_featured": true,
+        "is_bestseller": true,
+        "has_special_deal": false,
+        "is_fast_delivery": true,
+        "added_date": "2024-09-25"
       },
       {
         "id": 15,
@@ -230,7 +300,12 @@
         "rating": 4.5,
         "reviews": 54,
         "image": "https://m.media-amazon.com/images/I/71Y-1L4k0pL._AC_SL1500_.jpg",
-        "description": "Gold plated kada bangle with intricate kundan work."
+        "description": "Gold plated kada bangle with intricate kundan work.",
+        "is_featured": false,
+        "is_bestseller": true,
+        "has_special_deal": true,
+        "is_fast_delivery": false,
+        "added_date": "2024-08-10"
       },
       {
         "id": 16,
@@ -245,7 +320,12 @@
         "rating": 4.8,
         "reviews": 62,
         "image": "https://www.bluestone.com/jewellery/gold-diamond-bangles.html",
-        "description": "Elegant gold bangle studded with sparkling diamonds."
+        "description": "Elegant gold bangle studded with sparkling diamonds.",
+        "is_featured": true,
+        "is_bestseller": true,
+        "has_special_deal": false,
+        "is_fast_delivery": true,
+        "added_date": "2024-10-05"
       }
     ],
     "solitaires": [
@@ -263,7 +343,12 @@
         "rating": 4.9,
         "reviews": 120,
         "image": "https://i.pinimg.com/736x/29/73/45/2973456f9191e4a46d140e740134b9d0.jpg",
-        "description": "Timeless round-cut 1 carat diamond solitaire ring in 18K gold."
+        "description": "Timeless round-cut 1 carat diamond solitaire ring in 18K gold.",
+        "is_featured": true,
+        "is_bestseller": true,
+        "has_special_deal": true,
+        "is_fast_delivery": true,
+        "added_date": "2024-07-01"
       },
       {
         "id": 18,
@@ -279,7 +364,12 @@
         "rating": 4.8,
         "reviews": 91,
         "image": "https://m.media-amazon.com/images/I/61E5h40+HUL._AC_SL1500_.jpg",
-        "description": "Classic round diamond solitaire studs in 18K gold."
+        "description": "Classic round diamond solitaire studs in 18K gold.",
+        "is_featured": true,
+        "is_bestseller": true,
+        "has_special_deal": false,
+        "is_fast_delivery": true,
+        "added_date": "2024-09-05"
       },
       {
         "id": 19,
@@ -295,7 +385,12 @@
         "rating": 4.9,
         "reviews": 105,
         "image": "https://i.pinimg.com/736x/29/73/45/2973456f9191e4a46d140e740134b9d0.jpg",
-        "description": "Cushion-cut solitaire diamond surrounded by a halo of smaller diamonds."
+        "description": "Cushion-cut solitaire diamond surrounded by a halo of smaller diamonds.",
+        "is_featured": true,
+        "is_bestseller": true,
+        "has_special_deal": false,
+        "is_fast_delivery": true,
+        "added_date": "2024-11-10"
       },
       {
         "id": 20,
@@ -311,7 +406,12 @@
         "rating": 4.7,
         "reviews": 64,
         "image": "https://m.media-amazon.com/images/I/61y88L-F-8L._AC_SL1500_.jpg",
-        "description": "Elegant pear-shaped diamond solitaire drop earrings."
+        "description": "Elegant pear-shaped diamond solitaire drop earrings.",
+        "is_featured": true,
+        "is_bestseller": true,
+        "has_special_deal": true,
+        "is_fast_delivery": true,
+        "added_date": "2024-10-20"
       }
     ]
   },
@@ -330,7 +430,12 @@
         "rating": 0,
         "reviews": 0,
         "image": "https://static.tanishq.co.in/images/img-product/503118FIHAA00_1.jpg",
-        "description": "A new arrival with a unique gilded groove design and sparkling diamond."
+        "description": "A new arrival with a unique gilded groove design and sparkling diamond.",
+        "is_featured": false,
+        "is_bestseller": false,
+        "has_special_deal": false,
+        "is_fast_delivery": true,
+        "added_date": "2025-07-04"
       },
       {
         "id": 22,
@@ -345,7 +450,12 @@
         "rating": 0,
         "reviews": 0,
         "image": "https://static.tanishq.co.in/images/img-product/503020FNAAA00_1.jpg",
-        "description": "A beautiful new arrival featuring entwined hearts and a vibrant ruby stone."
+        "description": "A beautiful new arrival featuring entwined hearts and a vibrant ruby stone.",
+        "is_featured": false,
+        "is_bestseller": false,
+        "has_special_deal": false,
+        "is_fast_delivery": true,
+        "added_date": "2025-07-03"
       },
       {
         "id": 23,
@@ -360,7 +470,12 @@
         "rating": 4.0,
         "reviews": 22,
         "image": "https://m.media-amazon.com/images/I/61y88L-F-8L._AC_SL1500_.jpg",
-        "description": "A fashionable chevron design for midi finger, trending in 2024."
+        "description": "A fashionable chevron design for midi finger, trending in 2024.",
+        "is_featured": false,
+        "is_bestseller": false,
+        "has_special_deal": true,
+        "is_fast_delivery": true,
+        "added_date": "2025-06-25"
       },
       {
         "id": 24,
@@ -375,7 +490,12 @@
         "rating": 4.1,
         "reviews": 27,
         "image": "https://m.media-amazon.com/images/I/61M-FwS+6LL._AC_SL1500_.jpg",
-        "description": "Set of 4 geometric shaped stackable rings, a top trend for modern jewelry lovers."
+        "description": "Set of 4 geometric shaped stackable rings, a top trend for modern jewelry lovers.",
+        "is_featured": true,
+        "is_bestseller": false,
+        "has_special_deal": false,
+        "is_fast_delivery": true,
+        "added_date": "2025-07-02"
       },
       {
         "id": 25,
@@ -389,7 +509,12 @@
         "rating": 0,
         "reviews": 0,
         "image": "https://static.tanishq.co.in/images/img-product/503118FIAA000_1.jpg",
-        "description": "New in stock, a dainty diamond ring inspired by a dandelion."
+        "description": "New in stock, a dainty diamond ring inspired by a dandelion.",
+        "is_featured": false,
+        "is_bestseller": false,
+        "has_special_deal": true,
+        "is_fast_delivery": true,
+        "added_date": "2025-07-01"
       },
       {
         "id": 26,
@@ -403,7 +528,12 @@
         "rating": 0,
         "reviews": 0,
         "image": "https://static.tanishq.co.in/images/img-product/503118FJBAC00_1.jpg",
-        "description": "A new butterfly-themed ring with diamond accents."
+        "description": "A new butterfly-themed ring with diamond accents.",
+        "is_featured": true,
+        "is_bestseller": false,
+        "has_special_deal": false,
+        "is_fast_delivery": true,
+        "added_date": "2025-07-04"
       },
       {
         "id": 27,
@@ -418,7 +548,12 @@
         "rating": 4.5,
         "reviews": 34,
         "image": "https://m.media-amazon.com/images/I/61M-FwS+6LL._AC_SL1500_.jpg",
-        "description": "Unique opal stone ring that stands out."
+        "description": "Unique opal stone ring that stands out.",
+        "is_featured": false,
+        "is_bestseller": false,
+        "has_special_deal": true,
+        "is_fast_delivery": false,
+        "added_date": "2025-06-18"
       }
     ],
     "mangalsutras": [
@@ -435,7 +570,12 @@
         "rating": 0,
         "reviews": 0,
         "image": "https://cdn.joyalukkas.in/media/catalog/product/d/s/dsdp00019792_1_1.jpg",
-        "description": "A newly launched mangalsutra with a delicate floral diamond design."
+        "description": "A newly launched mangalsutra with a delicate floral diamond design.",
+        "is_featured": true,
+        "is_bestseller": false,
+        "has_special_deal": false,
+        "is_fast_delivery": true,
+        "added_date": "2025-07-04"
       },
       {
         "id": 29,
@@ -450,7 +590,12 @@
         "rating": 0,
         "reviews": 0,
         "image": "https://cdn.joyalukkas.in/media/catalog/product/d/s/dsdp00019610_1.jpg",
-        "description": "A heavy floral design mangalsutra, a new addition perfect for bridal wear."
+        "description": "A heavy floral design mangalsutra, a new addition perfect for bridal wear.",
+        "is_featured": true,
+        "is_bestseller": false,
+        "has_special_deal": false,
+        "is_fast_delivery": false,
+        "added_date": "2025-07-03"
       }
     ],
     "bracelets": [
@@ -467,7 +612,12 @@
         "rating": 4.2,
         "reviews": 9,
         "image": "https://m.media-amazon.com/images/I/61Nlq2p-QEL._AC_SL1000_.jpg",
-        "description": "Tribal design oxidized silver bangle, a trending piece for the boho look."
+        "description": "Tribal design oxidized silver bangle, a trending piece for the boho look.",
+        "is_featured": false,
+        "is_bestseller": false,
+        "has_special_deal": true,
+        "is_fast_delivery": true,
+        "added_date": "2025-06-20"
       },
       {
         "id": 31,
@@ -482,7 +632,12 @@
         "rating": 4.2,
         "reviews": 13,
         "image": "https://m.media-amazon.com/images/I/71rS0Y3Rj0L._AC_SL1500_.jpg",
-        "description": "A popular beaded bracelet for men, featuring natural black onyx stones."
+        "description": "A popular beaded bracelet for men, featuring natural black onyx stones.",
+        "is_featured": false,
+        "is_bestseller": false,
+        "has_special_deal": false,
+        "is_fast_delivery": true,
+        "added_date": "2025-06-15"
       }
     ],
     "solitaires": [
@@ -500,7 +655,12 @@
         "rating": 4.7,
         "reviews": 64,
         "image": "https://www.vaira.co.in/cdn/shop/products/PearDropsBrilliantCutSolitaireEarring1to10CT_1024x1024.jpg?v=1678850601",
-        "description": "Elegant pear-shaped diamond solitaire drop earrings, a popular new design."
+        "description": "Elegant pear-shaped diamond solitaire drop earrings, a popular new design.",
+        "is_featured": true,
+        "is_bestseller": false,
+        "has_special_deal": false,
+        "is_fast_delivery": true,
+        "added_date": "2025-07-04"
       },
       {
         "id": 33,
@@ -516,7 +676,12 @@
         "rating": 0,
         "reviews": 0,
         "image": "https://www.vaira.co.in/cdn/shop/files/CushionBrilliantCutSolitaireEarring1to10CT_1024x1024.jpg?v=1678850239",
-        "description": "A new ring blending vintage allure with a modern cushion brilliant cut."
+        "description": "A new ring blending vintage allure with a modern cushion brilliant cut.",
+        "is_featured": false,
+        "is_bestseller": false,
+        "has_special_deal": true,
+        "is_fast_delivery": true,
+        "added_date": "2025-07-01"
       },
       {
         "id": 34,
@@ -531,7 +696,12 @@
         "rating": 4.7,
         "reviews": 54,
         "image": "https://m.media-amazon.com/images/I/61X-c-D-OEL._AC_SL1500_.jpg",
-        "description": "Modern tension set sapphire ring design."
+        "description": "Modern tension set sapphire ring design.",
+        "is_featured": false,
+        "is_bestseller": true,
+        "has_special_deal": false,
+        "is_fast_delivery": true,
+        "added_date": "2025-06-28"
       }
     ]
   }

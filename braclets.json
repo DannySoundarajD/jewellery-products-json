@@ -12,8 +12,13 @@
       "occasion": "Daily Wear",
       "rating": 4.5,
       "reviews": 110,
-      "image": "https://example.com/images/gold-chain-bracelet-1.jpg",
-      "description": "Elegant 22K gold chain bracelet for everyday elegance."
+      "image": "https://m.media-amazon.com/images/I/6169pY18X0L._AC_UY1100_.jpg",
+      "description": "Elegant 22K gold chain bracelet for everyday elegance.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-25"
     },
     {
       "id": 2,
@@ -27,8 +32,13 @@
       "occasion": "Party",
       "rating": 4.8,
       "reviews": 67,
-      "image": "https://example.com/images/diamond-tennis-bracelet-1.jpg",
-      "description": "Sparkling diamond tennis bracelet for special occasions."
+      "image": "https://eragem.com/media/catalog/product/cache/e4507427afc9429093d76362a19cfadc/7/5/75113a.jpg",
+      "description": "Sparkling diamond tennis bracelet for special occasions.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-01"
     },
     {
       "id": 3,
@@ -42,8 +52,13 @@
       "occasion": "Casual",
       "rating": 4.2,
       "reviews": 38,
-      "image": "https://example.com/images/silver-cuff-bracelet-1.jpg",
-      "description": "Minimalist sterling silver cuff for a modern look."
+      "image": "https://img.tatacliq.com/images/i13/437Wx649H/MP000000019519191_437Wx649H_202309301812171.jpeg",
+      "description": "Minimalist sterling silver cuff for a modern look.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-18"
     },
     {
       "id": 4,
@@ -57,8 +72,13 @@
       "occasion": "Anniversary",
       "rating": 4.6,
       "reviews": 52,
-      "image": "https://example.com/images/pearl-charm-bracelet-1.jpg",
-      "description": "Delicate gold bracelet with pearl charms."
+      "image": "https://chandranipearls.in/cdn/shop/files/A02454.jpg?v=1747397267",
+      "description": "Delicate gold bracelet with pearl charms.",
+      "is_featured": false,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-05-30"
     },
     {
       "id": 5,
@@ -72,8 +92,13 @@
       "occasion": "Casual",
       "rating": 4.3,
       "reviews": 29,
-      "image": "https://example.com/images/mens-leather-bracelet-1.jpg",
-      "description": "Trendy leather wrap bracelet for men."
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIfrcEQPv9koD7DO45Wgd5fsq_Q72Dpkjm5w&s",
+      "description": "Trendy leather wrap bracelet for men.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-03"
     },
     {
       "id": 6,
@@ -87,8 +112,13 @@
       "occasion": "Gift",
       "rating": 4.7,
       "reviews": 44,
-      "image": "https://example.com/images/rose-gold-infinity-bracelet-1.jpg",
-      "description": "Rose gold bracelet with infinity symbol for everlasting love."
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/T/JT01041-1RP600_1_lar.jpg",
+      "description": "Rose gold bracelet with infinity symbol for everlasting love.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-10"
     },
     {
       "id": 7,
@@ -102,8 +132,13 @@
       "occasion": "Casual",
       "rating": 4.1,
       "reviews": 22,
-      "image": "https://example.com/images/beaded-friendship-bracelet-1.jpg",
-      "description": "Colorful beaded bracelet for friends."
+      "image": "https://m.media-amazon.com/images/I/51lYOMUq+wL._UY300_.jpg",
+      "description": "Colorful beaded bracelet for friends.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-04-20"
     },
     {
       "id": 8,
@@ -117,8 +152,13 @@
       "occasion": "Party",
       "rating": 4.6,
       "reviews": 33,
-      "image": "https://example.com/images/emerald-bracelet-1.jpg",
-      "description": "Gold bracelet with emerald-cut stones for a regal look."
+      "image": "https://isharya.com/cdn/shop/files/B1481-20-014-356_3.jpg?v=1750755420&width=1080",
+      "description": "Gold bracelet with emerald-cut stones for a regal look.",
+      "is_featured": true,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": false,
+      "added_date": "2025-05-15"
     },
     {
       "id": 9,
@@ -132,8 +172,13 @@
       "occasion": "Gift",
       "rating": 4.3,
       "reviews": 28,
-      "image": "https://example.com/images/silver-heart-bracelet-1.jpg",
-      "description": "Sterling silver bracelet with heart-shaped charm."
+      "image": "https://www.truesilver.co.in/cdn/shop/files/CBR-14_1_600x.jpg?v=1688190631",
+      "description": "Sterling silver bracelet with heart-shaped charm.",
+      "is_featured": false,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-02"
     },
     {
       "id": 10,
@@ -147,8 +192,13 @@
       "occasion": "Casual",
       "rating": 4.0,
       "reviews": 17,
-      "image": "https://example.com/images/rope-bracelet-1.jpg",
-      "description": "Simple adjustable rope bracelet for everyday wear."
+      "image": "https://i.etsystatic.com/19039160/r/il/3b83ab/3170050588/il_570xN.3170050588_g5wz.jpg",
+      "description": "Simple adjustable rope bracelet for everyday wear.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-05"
     },
     {
       "id": 11,
@@ -163,7 +213,12 @@
       "rating": 4.7,
       "reviews": 41,
       "image": "https://example.com/images/sapphire-tennis-bracelet-1.jpg",
-      "description": "White gold tennis bracelet with sapphire stones."
+      "description": "White gold tennis bracelet with sapphire stones.",
+      "is_featured": true,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": false,
+      "added_date": "2025-06-28"
     },
     {
       "id": 12,
@@ -178,7 +233,12 @@
       "rating": 4.2,
       "reviews": 19,
       "image": "https://example.com/images/minimalist-bar-bracelet-1.jpg",
-      "description": "Minimalist silver bar bracelet for a sleek look."
+      "description": "Minimalist silver bar bracelet for a sleek look.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-04"
     },
     {
       "id": 13,
@@ -193,7 +253,12 @@
       "rating": 4.4,
       "reviews": 23,
       "image": "https://example.com/images/turquoise-bead-bracelet-1.jpg",
-      "description": "Bohemian style turquoise bead bracelet."
+      "description": "Bohemian style turquoise bead bracelet.",
+      "is_featured": false,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-19"
     },
     {
       "id": 14,
@@ -208,7 +273,12 @@
       "rating": 4.1,
       "reviews": 18,
       "image": "https://example.com/images/steel-cuff-bracelet-1.jpg",
-      "description": "Bold stainless steel cuff for men."
+      "description": "Bold stainless steel cuff for men.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-05-20"
     },
     {
       "id": 15,
@@ -223,7 +293,12 @@
       "rating": 4.6,
       "reviews": 34,
       "image": "https://example.com/images/birthstone-charm-bracelet-1.jpg",
-      "description": "Customizable charm bracelet with birthstones."
+      "description": "Customizable charm bracelet with birthstones.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-01"
     },
     {
       "id": 16,
@@ -238,7 +313,12 @@
       "rating": 4.3,
       "reviews": 21,
       "image": "https://example.com/images/infinity-silver-bracelet-1.jpg",
-      "description": "Sterling silver infinity bracelet for loved ones."
+      "description": "Sterling silver infinity bracelet for loved ones.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-14"
     },
     {
       "id": 17,
@@ -253,7 +333,12 @@
       "rating": 4.4,
       "reviews": 25,
       "image": "https://example.com/images/gold-plated-kada-bracelet-1.jpg",
-      "description": "Traditional gold plated kada bracelet."
+      "description": "Traditional gold plated kada bracelet.",
+      "is_featured": false,
+      "is_bestseller": true,
+      "has_special_deal": true,
+      "is_fast_delivery": false,
+      "added_date": "2025-05-01"
     },
     {
       "id": 18,
@@ -268,7 +353,12 @@
       "rating": 4.2,
       "reviews": 13,
       "image": "https://example.com/images/black-onyx-bracelet-1.jpg",
-      "description": "Men's beaded bracelet with black onyx stones."
+      "description": "Men's beaded bracelet with black onyx stones.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-02"
     },
     {
       "id": 19,
@@ -283,7 +373,12 @@
       "rating": 4.5,
       "reviews": 14,
       "image": "https://example.com/images/rose-quartz-bracelet-1.jpg",
-      "description": "Healing bracelet made from natural rose quartz beads."
+      "description": "Healing bracelet made from natural rose quartz beads.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-01"
     },
     {
       "id": 20,
@@ -298,7 +393,12 @@
       "rating": 4.4,
       "reviews": 17,
       "image": "https://example.com/images/evil-eye-bracelet-1.jpg",
-      "description": "Silver bracelet with evil eye charm for protection."
+      "description": "Silver bracelet with evil eye charm for protection.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-03"
     },
     {
       "id": 21,
@@ -313,7 +413,12 @@
       "rating": 4.5,
       "reviews": 27,
       "image": "https://example.com/images/gold-mesh-bracelet-1.jpg",
-      "description": "Elegant mesh design gold bracelet."
+      "description": "Elegant mesh design gold bracelet.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": false,
+      "added_date": "2025-06-20"
     },
     {
       "id": 22,
@@ -328,7 +433,12 @@
       "rating": 4.2,
       "reviews": 10,
       "image": "https://example.com/images/mens-anchor-bracelet-1.jpg",
-      "description": "Leather bracelet with anchor clasp for men."
+      "description": "Leather bracelet with anchor clasp for men.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-10"
     },
     {
       "id": 23,
@@ -343,7 +453,12 @@
       "rating": 4.7,
       "reviews": 19,
       "image": "https://example.com/images/gold-ruby-bracelet-1.jpg",
-      "description": "Gold bracelet with ruby stones for festive occasions."
+      "description": "Gold bracelet with ruby stones for festive occasions.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": false,
+      "added_date": "2025-05-15"
     },
     {
       "id": 24,
@@ -358,7 +473,12 @@
       "rating": 4.3,
       "reviews": 16,
       "image": "https://example.com/images/silver-figaro-bracelet-1.jpg",
-      "description": "Classic silver Figaro link bracelet for men."
+      "description": "Classic silver Figaro link bracelet for men.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-04"
     },
     {
       "id": 25,
@@ -373,7 +493,12 @@
       "rating": 4.5,
       "reviews": 18,
       "image": "https://example.com/images/gold-plated-charm-bracelet-1.jpg",
-      "description": "Gold plated bracelet with multiple charms."
+      "description": "Gold plated bracelet with multiple charms.",
+      "is_featured": false,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-22"
     },
     {
       "id": 26,
@@ -388,7 +513,12 @@
       "rating": 4.1,
       "reviews": 12,
       "image": "https://example.com/images/lava-stone-bracelet-1.jpg",
-      "description": "Men's beaded bracelet made from natural lava stones."
+      "description": "Men's beaded bracelet made from natural lava stones.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-08"
     },
     {
       "id": 27,
@@ -403,7 +533,12 @@
       "rating": 4.6,
       "reviews": 15,
       "image": "https://example.com/images/gold-filigree-bracelet-1.jpg",
-      "description": "Delicate gold filigree work bracelet."
+      "description": "Delicate gold filigree work bracelet.",
+      "is_featured": true,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": false,
+      "added_date": "2025-05-25"
     },
     {
       "id": 28,
@@ -418,7 +553,12 @@
       "rating": 4.2,
       "reviews": 13,
       "image": "https://example.com/images/silver-bangle-bracelet-1.jpg",
-      "description": "Simple silver bangle bracelet for daily use."
+      "description": "Simple silver bangle bracelet for daily use.",
+      "is_featured": false,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-11"
     },
     {
       "id": 29,
@@ -433,7 +573,12 @@
       "rating": 4.3,
       "reviews": 14,
       "image": "https://example.com/images/braided-leather-bracelet-1.jpg",
-      "description": "Braided leather bracelet with magnetic clasp for men."
+      "description": "Braided leather bracelet with magnetic clasp for men.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-03"
     },
     {
       "id": 30,
@@ -448,7 +593,12 @@
       "rating": 4.1,
       "reviews": 11,
       "image": "https://example.com/images/crystal-stretch-bracelet-1.jpg",
-      "description": "Colorful crystal stretch bracelet for festive occasions."
+      "description": "Colorful crystal stretch bracelet for festive occasions.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-29"
     }
   ],
   "bangles": [
@@ -465,7 +615,12 @@
       "rating": 4.7,
       "reviews": 87,
       "image": "https://example.com/images/gold-bangle-1.jpg",
-      "description": "Classic 22K gold bangle for festive and wedding occasions."
+      "description": "Classic 22K gold bangle for festive and wedding occasions.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-20"
     },
     {
       "id": 2,
@@ -480,7 +635,12 @@
       "rating": 4.5,
       "reviews": 54,
       "image": "https://example.com/images/kundan-kada-bangle-1.jpg",
-      "description": "Gold plated kada bangle with intricate kundan work."
+      "description": "Gold plated kada bangle with intricate kundan work.",
+      "is_featured": false,
+      "is_bestseller": true,
+      "has_special_deal": true,
+      "is_fast_delivery": false,
+      "added_date": "2025-05-10"
     },
     {
       "id": 3,
@@ -495,7 +655,12 @@
       "rating": 4.2,
       "reviews": 31,
       "image": "https://example.com/images/silver-oxidized-bangle-1.jpg",
-      "description": "Trendy oxidized silver bangle for a boho look."
+      "description": "Trendy oxidized silver bangle for a boho look.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-28"
     },
     {
       "id": 4,
@@ -510,7 +675,12 @@
       "rating": 4.8,
       "reviews": 62,
       "image": "https://example.com/images/diamond-bangle-1.jpg",
-      "description": "Elegant gold bangle studded with sparkling diamonds."
+      "description": "Elegant gold bangle studded with sparkling diamonds.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-01"
     },
     {
       "id": 5,
@@ -525,7 +695,12 @@
       "rating": 4.1,
       "reviews": 45,
       "image": "https://example.com/images/glass-chudi-set-1.jpg",
-      "description": "Colorful glass chudi set for traditional wear."
+      "description": "Colorful glass chudi set for traditional wear.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-15"
     },
     {
       "id": 6,
@@ -540,7 +715,12 @@
       "rating": 4.6,
       "reviews": 39,
       "image": "https://example.com/images/antique-temple-bangle-1.jpg",
-      "description": "Antique temple design bangle with ruby stones."
+      "description": "Antique temple design bangle with ruby stones.",
+      "is_featured": true,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": false,
+      "added_date": "2025-05-20"
     },
     {
       "id": 7,
@@ -555,7 +735,12 @@
       "rating": 4.3,
       "reviews": 27,
       "image": "https://example.com/images/meenakari-bangle-1.jpg",
-      "description": "Vibrant meenakari bangle set for festivals."
+      "description": "Vibrant meenakari bangle set for festivals.",
+      "is_featured": false,
+      "is_bestseller": true,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-10"
     },
     {
       "id": 8,
@@ -570,7 +755,12 @@
       "rating": 4.5,
       "reviews": 21,
       "image": "https://example.com/images/pearl-bangle-1.jpg",
-      "description": "Gold plated bangle with pearl embellishments."
+      "description": "Gold plated bangle with pearl embellishments.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-02"
     },
     {
       "id": 9,
@@ -585,7 +775,12 @@
       "rating": 4.2,
       "reviews": 18,
       "image": "https://example.com/images/silver-kada-1.jpg",
-      "description": "Classic silver kada for men and women."
+      "description": "Classic silver kada for men and women.",
+      "is_featured": false,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-05"
     },
     {
       "id": 10,
@@ -600,7 +795,12 @@
       "rating": 4.4,
       "reviews": 19,
       "image": "https://example.com/images/rose-gold-bangle-1.jpg",
-      "description": "Trendy rose gold designer bangle."
+      "description": "Trendy rose gold designer bangle.",
+      "is_featured": true,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": false,
+      "added_date": "2025-06-25"
     },
     {
       "id": 11,
@@ -615,7 +815,12 @@
       "rating": 4.7,
       "reviews": 23,
       "image": "https://example.com/images/polki-bangle-1.jpg",
-      "description": "Traditional polki stone bangle set."
+      "description": "Traditional polki stone bangle set.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-03"
     },
     {
       "id": 12,
@@ -630,7 +835,12 @@
       "rating": 4.1,
       "reviews": 14,
       "image": "https://example.com/images/enamel-bangle-1.jpg",
-      "description": "Handcrafted enamel work bangle."
+      "description": "Handcrafted enamel work bangle.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-12"
     },
     {
       "id": 13,
@@ -645,7 +855,12 @@
       "rating": 4.2,
       "reviews": 13,
       "image": "https://example.com/images/steel-kada-1.jpg",
-      "description": "Stainless steel kada for men."
+      "description": "Stainless steel kada for men.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-01"
     },
     {
       "id": 14,
@@ -660,7 +875,12 @@
       "rating": 4.7,
       "reviews": 17,
       "image": "https://example.com/images/gold-filigree-bangle-1.jpg",
-      "description": "Delicate gold filigree bangle for special occasions."
+      "description": "Delicate gold filigree bangle for special occasions.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": false,
+      "added_date": "2025-05-28"
     },
     {
       "id": 15,
@@ -675,7 +895,12 @@
       "rating": 4.3,
       "reviews": 15,
       "image": "https://example.com/images/crystal-bangle-1.jpg",
-      "description": "Colorful crystal bangle set for festive looks."
+      "description": "Colorful crystal bangle set for festive looks.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-19"
     },
     {
       "id": 16,
@@ -690,7 +915,12 @@
       "rating": 4.6,
       "reviews": 12,
       "image": "https://example.com/images/gold-ruby-bangle-1.jpg",
-      "description": "Gold bangle with ruby stones for festive occasions."
+      "description": "Gold bangle with ruby stones for festive occasions.",
+      "is_featured": true,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": false,
+      "added_date": "2025-05-18"
     },
     {
       "id": 17,
@@ -705,7 +935,12 @@
       "rating": 4.2,
       "reviews": 11,
       "image": "https://example.com/images/silver-adjustable-bangle-1.jpg",
-      "description": "Adjustable silver bangle for all wrist sizes."
+      "description": "Adjustable silver bangle for all wrist sizes.",
+      "is_featured": false,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-07"
     },
     {
       "id": 18,
@@ -720,7 +955,12 @@
       "rating": 4.3,
       "reviews": 10,
       "image": "https://example.com/images/gold-plated-floral-bangle-1.jpg",
-      "description": "Floral design gold plated bangle."
+      "description": "Floral design gold plated bangle.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-04"
     },
     {
       "id": 19,
@@ -735,7 +975,12 @@
       "rating": 4.4,
       "reviews": 13,
       "image": "https://example.com/images/antique-silver-bangle-1.jpg",
-      "description": "Antique finish silver bangle for ethnic wear."
+      "description": "Antique finish silver bangle for ethnic wear.",
+      "is_featured": true,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": false,
+      "added_date": "2025-05-05"
     },
     {
       "id": 20,
@@ -750,7 +995,12 @@
       "rating": 4.5,
       "reviews": 12,
       "image": "https://example.com/images/gold-mesh-bangle-1.jpg",
-      "description": "Elegant gold mesh design bangle."
+      "description": "Elegant gold mesh design bangle.",
+      "is_featured": false,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-22"
     },
     {
       "id": 21,
@@ -765,7 +1015,12 @@
       "rating": 4.1,
       "reviews": 8,
       "image": "https://example.com/images/brass-kada-1.jpg",
-      "description": "Simple brass kada for men."
+      "description": "Simple brass kada for men.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-01"
     },
     {
       "id": 22,
@@ -780,7 +1035,12 @@
       "rating": 4.3,
       "reviews": 10,
       "image": "https://example.com/images/gold-plated-stone-bangle-1.jpg",
-      "description": "Gold plated bangle with colored stones."
+      "description": "Gold plated bangle with colored stones.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": false,
+      "added_date": "2025-06-17"
     },
     {
       "id": 23,
@@ -795,7 +1055,12 @@
       "rating": 4.2,
       "reviews": 9,
       "image": "https://example.com/images/silver-tribal-bangle-1.jpg",
-      "description": "Tribal design oxidized silver bangle."
+      "description": "Tribal design oxidized silver bangle.",
+      "is_featured": false,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-29"
     },
     {
       "id": 24,
@@ -810,7 +1075,12 @@
       "rating": 4.3,
       "reviews": 11,
       "image": "https://example.com/images/gold-plated-adjustable-kada-1.jpg",
-      "description": "Adjustable gold plated kada for women."
+      "description": "Adjustable gold plated kada for women.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-04"
     },
     {
       "id": 25,
@@ -825,7 +1095,12 @@
       "rating": 4.1,
       "reviews": 9,
       "image": "https://example.com/images/enamel-floral-bangle-1.jpg",
-      "description": "Hand-painted enamel floral bangle."
+      "description": "Hand-painted enamel floral bangle.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-13"
     },
     {
       "id": 26,
@@ -840,7 +1115,12 @@
       "rating": 4.6,
       "reviews": 8,
       "image": "https://example.com/images/gold-emerald-bangle-1.jpg",
-      "description": "Gold bangle with emerald stones for festive occasions."
+      "description": "Gold bangle with emerald stones for festive occasions.",
+      "is_featured": true,
+      "is_bestseller": true,
+      "has_special_deal": false,
+      "is_fast_delivery": false,
+      "added_date": "2025-05-19"
     },
     {
       "id": 27,
@@ -855,7 +1135,12 @@
       "rating": 4.2,
       "reviews": 7,
       "image": "https://example.com/images/silver-open-bangle-1.jpg",
-      "description": "Open design silver bangle for easy wear."
+      "description": "Open design silver bangle for easy wear.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-24"
     },
     {
       "id": 28,
@@ -870,7 +1155,12 @@
       "rating": 4.3,
       "reviews": 6,
       "image": "https://example.com/images/gold-plated-leaf-bangle-1.jpg",
-      "description": "Leaf motif gold plated bangle."
+      "description": "Leaf motif gold plated bangle.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": true,
+      "added_date": "2025-07-02"
     },
     {
       "id": 29,
@@ -885,7 +1175,12 @@
       "rating": 4.1,
       "reviews": 12,
       "image": "https://example.com/images/glass-bangles-set-1.jpg",
-      "description": "Set of colorful glass bangles for traditional wear."
+      "description": "Set of colorful glass bangles for traditional wear.",
+      "is_featured": false,
+      "is_bestseller": true,
+      "has_special_deal": true,
+      "is_fast_delivery": true,
+      "added_date": "2025-06-16"
     },
     {
       "id": 30,
@@ -900,7 +1195,12 @@
       "rating": 4.4,
       "reviews": 8,
       "image": "https://example.com/images/gold-plated-designer-kada-1.jpg",
-      "description": "Designer gold plated kada for festive occasions."
+      "description": "Designer gold plated kada for festive occasions.",
+      "is_featured": false,
+      "is_bestseller": false,
+      "has_special_deal": false,
+      "is_fast_delivery": false,
+      "added_date": "2025-05-29"
     }
   ]
 }
